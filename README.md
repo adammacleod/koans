@@ -1,4 +1,0 @@
-koans
-=====
-
-Ruby Koans
